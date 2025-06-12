@@ -1,6 +1,6 @@
 # 🛡️ Threat Detection Engineering & Simulation Using the Pyramid of Pain
 
-**Platform**: TryHackMe **Type**: Practical Scenario  **Focus**: Threat Simulation & Detection Engineering Using the Pyramid of Pain
+**Platform**: TryHackMe **Room**: [Summit](https://tryhackme.com/room/summit) **Type**: Practical Scenario  **Focus**: Threat Simulation & Detection Engineering Using the Pyramid of Pain
 
 ---
 
@@ -89,4 +89,6 @@ In this interactive, hands-on purple-team simulation, I collaborated with a simu
 ## ✅ Outcome
 
 Through iterative detection engineering, I forced the simulated attacker to abandon the campaign by driving up their operational cost—demonstrating advanced defensive strategy against evolving adversary techniques.
+
+[🔗 TryHackMe Completion Badge](https://tryhackme.com/p/YourUsername)  
 
