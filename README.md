@@ -1,6 +1,6 @@
 # 🛡️ Threat Detection Engineering & Simulation Using the Pyramid of Pain
 
-**Platform**: TryHackMe **Room**: [Summit](https://tryhackme.com/room/summit) **Type**: Practical Scenario  **Focus**: Threat Simulation & Detection Engineering Using the Pyramid of Pain
+**Platform**: TryHackMe **Room**: [Summit](https://tryhackme.com/p/AlgoniAdam) **Type**: Practical Scenario  **Focus**: Threat Simulation & Detection Engineering Using the Pyramid of Pain
 
 ---
 
